@@ -1,6 +1,6 @@
 # OrnithopterX
 
-- Hello! I'm Joshua and Welcome to @OrnithopterX !
+- Hello! I'm Joshua and Welcome to OrnithopterX !
 
 I am currently developing Open source resources for Ornithopters, to aid design and research, as well as Flight control software, navigation and more!
 - I’m interested in ...
