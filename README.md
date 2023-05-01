@@ -1,8 +1,9 @@
 # OrnithopterX
 
-- Hello! I'm Joshua and Welcome to OrnithopterX !
+- Hello! I'm Joshua and Welcome to OrnithopterX!
 
-I am currently developing Open-source resources for Ornithopters: to aid design and research, as well as Flight control software, navigation and more!
+I am currently developing Open-source resources for Robotics, with a focus on Ornithopters!
+Current projects aim to aid design and research, flight control software, navigation and more!
 - I’m interested in ...
 
 Ornithopters, RPAs, MAVs and UAVs. With a pinch of software design, CAD and simulation.
